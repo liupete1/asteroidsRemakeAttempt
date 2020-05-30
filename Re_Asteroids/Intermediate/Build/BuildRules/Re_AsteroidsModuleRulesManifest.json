@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/PeterLiu/Documents/Unreal Projects/Re_Asteroids/Source/Re_Asteroids/Re_Asteroids.Build.cs",
+		"/Users/PeterLiu/Documents/Unreal Projects/Re_Asteroids/Source/Re_Asteroids.Target.cs",
+		"/Users/PeterLiu/Documents/Unreal Projects/Re_Asteroids/Source/Re_AsteroidsEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.0"
+}

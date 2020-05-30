@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Re_Asteroids",
+			"Path": "/Users/PeterLiu/Documents/Unreal Projects/Re_Asteroids/Source/Re_Asteroids.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Re_AsteroidsEditor",
+			"Path": "/Users/PeterLiu/Documents/Unreal Projects/Re_Asteroids/Source/Re_AsteroidsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
